@@ -21,3 +21,5 @@ w = "my cat"
 e = "is cute"
 print(w+e)
 
+print("Its fleece was white as {}.".format("snow"))
+
